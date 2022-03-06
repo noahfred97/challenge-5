@@ -3,7 +3,7 @@
 
 ## Installation
 
-This is an application that runs in your default browser and features dynamically updated HTML and CSS powered by JQuery. Application features polished UI and is responsive, ensuring adaptation to multiple screen sizes.
+This is an application that runs in your default browser and features dynamically updated HTML and CSS powered by JQuery. Application features clean UI and also is compatible for multiple screen sizes.
 
 [Work Day Scheduler]
 
